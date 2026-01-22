@@ -1,35 +1,53 @@
-# Channelcoin (CHC)
+# 💛 ChannelGold
 
-🚀 **Channelcoin** is a crypto project in development, created with a **long-term investment vision**, focused on transparency, consistency, and community-driven growth.
+ChannelGold is a digital cryptocurrency project focused on long-term growth, security, transparency, and community collaboration.
 
-## 🌍 Project Vision
-
-Channelcoin aims to grow as an independent crypto project, built step by step with responsibility, openness, and a strong long-term perspective.
-
-## 🔐 Core Principles
-
-* Transparency
-* Open development
-* Community as a growth partner
-* Long-term vision
-
-## 🪙 Project Information
-
-* Name: Channelcoin
-* Symbol: CHC
-* Type: Crypto project
-* Focus: Long-term investment
-* Status: In development
-
-## 🤝 Community
-
-The Channelcoin community is like having a partner in the project. Everyone who believes in Channelcoin is part of its construction and future.
-
-## ⚠️ Disclaimer
-
-This project is under development. Cryptocurrencies involve risks.
-This is not financial advice.
+This project is the official evolution of the former name ChannelCoin, which underwent a rebranding process to ensure a unique identity and avoid confusion with other projects in the crypto market.
 
 ---
 
-**Channelcoin © 2026**
+## 🔄 Name Change (Rebranding)
+
+The project previously known as ChannelCoin is now officially called ChannelGold.
+
+This change was made to:
+- Avoid name conflicts and market confusion
+- Strengthen the project’s identity
+- Improve brand security
+- Prepare the project for sustainable long-term growth
+
+ChannelGold continues the original vision of the project, now with a stronger name and identity.
+
+---
+
+## 🔐 Authorization & Independence
+
+ChannelGold is an independent project, with no affiliation, connection, or partnership with any fashion brands, commercial companies, or financial institutions.
+
+The name ChannelGold, its logo, visual identity, and concept are the exclusive property of the ChannelGold project.
+
+---
+
+## 🌍 Community & Purpose
+
+The goal of ChannelGold is to:
+- Work together with the community
+- Encourage open and transparent participation
+- Build a reliable digital ecosystem
+- Grow responsibly within the crypto market
+
+The community plays a fundamental role in the project.
+
+---
+
+## 📄 License
+
+The source code in this repository is available under the terms of the applied license.
+Please refer to the LICENSE file for more information.
+
+---
+
+## ⚠️ Disclaimer
+
+ChannelGold does not represent guaranteed investment returns.
+Cryptocurrencies involve risk. Always do your own research (DYOR).
