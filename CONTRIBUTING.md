@@ -22,4 +22,12 @@ To submit code or documentation improvements:
 2. Create a branch with a descriptive name:  
    ```bash
    git
-   
+
+git checkout -b branch-name
+git commit -m "Clear description of the change"
+## 5. Contact
+If you have any questions, contact us via:
+- Twitter: [@channelGold](#)
+- Telegram: [Group Link](#)
+
+Thank you for helping make **channelGold (CHG)** a better project! 💛
